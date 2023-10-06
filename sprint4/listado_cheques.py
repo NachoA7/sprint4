@@ -17,6 +17,5 @@ def chequeraParticular(chequeraGen, dni, tipo, estado, rangoFechas):
     c = 0
 
 chequeraGen = chequeraGeneral(sys.argv[1])
-for 
 print(list(chequeraGen['DNI']).index('55555555'))
 # print(chequeraGen[tuple(chequeraGen.keys())[0]][9])
